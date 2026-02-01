@@ -2,19 +2,6 @@
 
 A FastAPI-based REST API for AI-powered text processing and generation.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [Author](#author)
-- [Acknowledgements](#acknowledgements)
-
 ## 🔍 Overview
 
 This API provides AI-powered text processing capabilities including text generation, analysis, and transformation. Built with FastAPI, it offers high performance and automatic API documentation.
