@@ -11,15 +11,9 @@ A FastAPI-based REST API for AI-powered text processing and generation.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Running the Application](#running-the-application)
 - [API Documentation](#api-documentation)
-- [API Endpoints](#api-endpoints)
-- [Usage Examples](#usage-examples)
-- [Development](#development)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## 🔍 Overview
 
